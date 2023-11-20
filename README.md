@@ -1,3 +1,3 @@
 # Mein Repositorium zum Data Librarian
 - Christina Gaida
-- Letztes Bearbeitungsdatum: 20.11.2023
+- Letztes Bearbeitungsdatum: 2023-11-20
